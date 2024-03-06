@@ -1,0 +1,10 @@
+CREATE DATABASE productos;
+
+USE productos; 
+
+CREATE TABLE inventario (
+ID INT AUTO_INCREMENT PRIMARY KEY,
+    NOMBRE VARCHAR(50), 
+    PRECIO INT, 
+    CANTIDAD INT   
+);
