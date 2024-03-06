@@ -1,2 +1,2 @@
 UPDATE inventario SET Nombre = "azucar" 
-  WHERE Nombre = "arina";
+  WHERE Nombre = "harina";
